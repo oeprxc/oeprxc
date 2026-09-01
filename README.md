@@ -1,23 +1,10 @@
-# Hi, I'm Precious 👋
+# Hi, I'm Precious.
 
-Frontend Developer | Technical Analyst
+I'm a Frontend Developer passionate about building modern, responsive, and user-friendly web experiences.
 
-I'm passionate about building clean, responsive, and user-friendly web applications. I enjoy turning ideas into interactive digital experiences while continuously improving my skills through real-world projects.
-
-## 🛠️ Tech Stack
-- HTML5
-- CSS3
+### Tech Stack
+- HTML
+- CSS
 - JavaScript
 - Git
-- GitHub
-- VS Code
-
-## 📂 Featured Projects
-- 📊 Trading Dashboard
-- 🌦️ Weather App
-- 📝 Todo List
-- 🧮 Calculator
-- 📘 Facebook Login Clone
-
-## 📫 Connect With Me
-- GitHub: https://github.com/oeprxc
+- React
